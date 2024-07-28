@@ -1,0 +1,21 @@
+{
+  "id": 100000007,
+  "name": "Iates, Etherym Barrier",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If this card is in your hand, you can banish 2 Etherym monsters from your hand and/or field, then special summon this monster. You can return 1 banished Etherym monster to the deck; (quick effect) negate the activation of 1 spell, trap, or monster effect your opponent controls. You can only activate this effect of \"Iates, Etherym Barrier\" once per turn. Apply the following effect(s) depending on the number of banished Etherym monsters with different names. (2+) Etherym monsters cannot be destroyed in battle or by opponent's card effect. (4+) Etherym monsters cannot be targeted by your opponent's card effects. (6+) Your opponent cannot activate effects in response to Etherym monster effects.",
+  "images": [
+    "https://www.dropbox.com/scl/fi/ir5pnl7vyivywek15p1p5/100000007.jpg?rlkey=0yrw7t6esdylevibqvcy64a24&st=v0v3vmom&dl=1"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 2000,
+  "species": "SEA SERPENT",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2400,
+  "level": 5,
+  "is_tuner": false
+}

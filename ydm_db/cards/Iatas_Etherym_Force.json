@@ -1,0 +1,21 @@
+{
+  "id": 100000006,
+  "name": "Iatas, Etherym Force",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If this card is in your hand, you can banish 2 Etherym monsters from your field and/or GY, then special summon this card. Etherym monsters you control gain 200 atk and def for each monster in the banishment you own.",
+  "images": [
+    "https://www.dropbox.com/scl/fi/d9gpxlpw5u3ktxdzu3y50/100000006.jpg?rlkey=uxxkr4yek488gx4u258jpav2o&st=ikou7wvr&dl=1"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 2400,
+  "species": "SEA SERPENT",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "level": 4,
+  "is_tuner": false
+}

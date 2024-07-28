@@ -1,0 +1,12 @@
+{
+  "id": 100000018,
+  "name": "Etherym Sacrifice",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Tribute 1 Sea Serpent monster you control to target 2 cards your opponent controls; banish those targets.",
+  "images": [
+    "https://www.dropbox.com/scl/fi/aiy7smaff0g9qkibcpvwo/100000018.jpg?rlkey=c522ndkxxau5p0d64ufku5pwv&st=ofnho7hr&dl=1"
+  ],
+  "type": "Trap",
+  "trap_type": "Continuous"
+}

@@ -1,0 +1,21 @@
+{
+  "id": 100000005,
+  "name": "Etherym Energy Channeler",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If this card is in the GY, you can banish this card and 1 other Etherym monster from your GY; draw 1 card. An Etherym Xyz monster Xyz summoned using this card as material gains this effect: You can banish 2 Etherym monsters from your GY; draw 1 card.",
+  "images": [
+    "https://www.dropbox.com/scl/fi/vp3atdm3rbzstm0th2f2p/100000005.jpg?rlkey=acnh0gxqlyzsxqe6la04yj34g&st=wr15g293&dl=1"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1800,
+  "species": "SEA SERPENT",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 1400,
+  "level": 4,
+  "is_tuner": false
+}

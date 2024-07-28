@@ -1,0 +1,21 @@
+{
+  "id": 100000002,
+  "name": "Etherym Depth Dweller",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "If this card is in your hand, you can banish this card: (quick effect) banish 1 Etherym monster on your side of the field or in your GY; draw 1 card. If this card is summoned: you can send 1 Sea Serpent monster from your deck to the GY. You can only use either effect of \"Etherym Depth Dweller\" once per turn.",
+  "images": [
+    "https://www.dropbox.com/scl/fi/1lf0am3ovnbuhu2asuk2k/100000002.jpg?rlkey=wb9k9mk0mjyuiwthkv333lexn&st=oww7uisy&dl=1"
+  ],
+  "type": "Monster",
+  "attribute": "WATER",
+  "atk": 1800,
+  "species": "SEA SERPENT",
+  "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 400,
+  "level": 3,
+  "is_tuner": false
+}
