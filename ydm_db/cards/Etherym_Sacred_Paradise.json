@@ -7,6 +7,6 @@
   "images": [
     "https://www.dropbox.com/scl/fi/lbilxorc06wh7savd0dg6/100000016.jpg?rlkey=ugazw0nfaks4hi0p5xzj972wd&st=lka8ossv&dl=1"
   ],
-  "type": "Field",
-  "spell_type": "Normal"
+  "type": "Spell",
+  "spell_type": "Field"
 }
