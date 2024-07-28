@@ -1,0 +1,22 @@
+{
+  "id": 100000011,
+  "name": "Chosen of Etherym",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "2 Sea Serpent monsters including 1 Etherym monster
+Must first be fusion summoned. If this card is special summoned, you can discard 1 card, then target 1 sea serpent in your GY and 1 card your opponent controls: banish them. If this card leaves the field by battle or opponent's card effect, you can target 2 Etherym monsters with a level in your GY or banishment; special summon 1 Ethrym Xyz monster from your extra deck, then attach the targeted monsters to it (this is treated as an Xyz summon). You can only use each effect of \"Chosen of Etherym\" once per turn.",
+  "images": [
+    "https://www.dropbox.com/scl/fi/kvoszwb61u9l7y1a8yx9o/100000011.jpg?rlkey=6b7fxbgf8phmzs3927lp7yzgm&st=hcsr6puj&dl=1"
+  ],
+  "type": "Monster",
+  "attribute": "LIGHT",
+  "atk": 2400,
+  "species": "Sea Serpent",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "level": 6,
+  "is_tuner": false
+}
