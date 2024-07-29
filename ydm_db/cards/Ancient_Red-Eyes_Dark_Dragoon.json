@@ -1,0 +1,21 @@
+{
+  "id": 100000020,
+  "name": "Ancient Red-Eyes Dark Dragoon",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Dark Magician + Red-Eyes B. Dragon or Ancient Dark Magician + Ancient Red-Eyes B. Dragon This cards summoning can not be negated. Must first be fusion summoned with the fusion matirals listed above, alternativly you can Special Summon this card from your extra deck or GY by tributing 1 Red-Eyes Dark Dragoon you control if this card is special summoned this way it gains the following effect once per turn (quick effect): you can discard 1 inferno fire blast or 1 Anciant Inferno Fire Blast from your hand if you do inflict damage to your opponant equal to this cards current ATK. This card is unaffected by card effects, your opponent cannot target or destroy this card with card effects. Once per turn on either players turn you can target 1 card your opponent controls and destroy it, you can use this effect upto the number of normal mosters used for the Fusion summon of this card or if you Special Summoned this card by tributing a Red-Eyes Dark Dragoon you can use this effect upto the number of normal monsters used to fusion summon that monster. During either players turn, if your opponant activates a card or effect you can discard a card from your hand then if you do negate the activation and distroy that card and if you do that this card gains 1000 ATK and DEF, your opponant can not activate cards or effects in responce to this effects activation. This card cannot be attacked by Wyrms, Dragons or Spellcaster Type Monsters and Once Per Turn During Either Player's Turn Quick Effect you can target 1 Wyrm, Dragon or Spellcaster Monster your Opponent controls and if you do take control of it until the end of your opponents next Turn. If this card in its owners control leaves the field at the End Phase you can banish all cards Your Opponent controls and if you do Special Sommon any number of Red-Eyes Dark Dragoons from your Extra Deck and/or GY in ATK Position and deal 1000 Points of damage to your Opponent for each card banished by this effect. Opponent can not activate cards or effects in response to any of this cards effects.",
+  "images": [
+    "https://www.dropbox.com/scl/fi/ndinrln09t8bbrwt82z6a/100000020.jpeg?rlkey=g6fa4f7drhlnwh3rdjkw2r6d9&st=950d8jtf&dl=1"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 4000,
+  "species": "Spellcaster/Omni",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 4000,
+  "level": 12,
+  "is_tuner": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": 100000023,
+  "name": "Temple of the Ancients",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Once Per Turn: You can discard 1 card from your hand and if you do you can special summon 1 Anciant Monster or add 1 Anciant Spell/Trap from your deck. All Anciant Monsters on your side of the field gain 500 ATK every Standby Phase ignoring there immunity. Your Opponent cannot target Monsters you control with card effects",
+  "images": [
+    "https://www.dropbox.com/scl/fi/ppouzsgwqeiogc2v3g8gd/100000023.jpeg?rlkey=1i8snmonra9nko9vosg4sv664&st=2moyp55o&dl=1"
+  ],
+  "type": "Spell",
+  "spell_type": "Continuous"
+}
