@@ -3,7 +3,7 @@
   "name": "Ancient power Unbound",
   "is_illegal": false,
   "is_custom": true,
-  "text": "You can discard 1 card from your hand and if you do you can add 1 Anciant Spell/Trap from your deck. All Omni Monsters on your side of the field gain 500 ATK every Standby Phase ignoring there immunity. You can target up to 3 Omni Monsers or Ancient Spells/Traps. You can only use each effect of \"Ancient Power Unbound\" once per turn.",
+  "text": "You can discard 1 card from your hand and if you do you can add 1 Anciant Spell/Trap from your deck. All Omni Monsters on your side of the field gain 500 ATK every Standby Phase ignoring there immunity. You can target up to 3 Omni Monsters and/or "Ancient" Spells/Traps in your GY; return them to the deck and draw 1. You can only use each effect of \"Ancient Power Unbound\" once per turn.",
   "images": [
     "https://www.dropbox.com/scl/fi/ltyd0b05jj9lidqf9fgdz/100000025.jpeg?rlkey=9nkcdhf90wiz0rrepfnilbc7q&st=5gt0r4mo&dl=1"
   ],
