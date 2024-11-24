@@ -1,0 +1,22 @@
+{
+  "id": 100000032,
+  "name": "Red-Eyes Dark Dragoon Girl",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": ""Dark Magician Girl" + "1 Red-Eyes monster"
+When this card is fusion summoned you can target 1 of the mosters used as material for this cards fusion summon in your gy; return that target to your hand. This card gains 300 ATK for each Red-Eyes and Dark Magician monster in the gy. While this monster is on the field your opponent cannot target anyother "Dragoon" monsters you control for a atk.",
+  "images": [
+    "https://www.dropbox.com/scl/fi/kwb6vgap9mebycjyp5vm2/100000032.jpeg?rlkey=hbnhmkuw041um4dqtatczmqlq&st=j3ywgab1&dl=1"
+  ],
+  "type": "Monster",
+  "attribute": "Dark",
+  "atk": 2500,
+  "species": "Spellcaster/Omni",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2100,
+  "level": 9,
+  "is_tuner": false
+}

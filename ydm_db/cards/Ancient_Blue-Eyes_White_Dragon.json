@@ -1,0 +1,21 @@
+{
+  "id": 100000035,
+  "name": "Ancient Blue-Eyes White Dragon",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "The mightiest of the Omni dragons feared through out time said to be even of the greatest of all the Omni monsters",
+  "images": [
+    "https://www.dropbox.com/scl/fi/4thx2khzcuqji51duaxfv/100000035.jpeg?rlkey=t69mqjhm75ydzw3a9h4xxjyvg&st=4vzcjrjl&dl=1"
+  ],
+  "type": "Monster",
+  "attribute": "Light",
+  "atk": 3500,
+  "species": "Dragon/Omni",
+  "monster_type": "Normal",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": false,
+  "def": 3000,
+  "level": 8,
+  "is_tuner": false
+}
