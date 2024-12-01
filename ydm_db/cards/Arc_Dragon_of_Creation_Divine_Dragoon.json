@@ -10,13 +10,13 @@
   ],
   "type": "Monster",
   "attribute": "Divine",
-  "atk": "Dynamic Value",
+  "atk": "0",
   "species": "Omni Lord",
   "monster_type": "Fusion",
   "is_pendulum": false,
   "ability": "",
   "has_effect": true,
-  "def": "Dynamic Value",
+  "def": "0",
   "level": 12,
   "is_tuner": false
 }
