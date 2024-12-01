@@ -3,7 +3,8 @@
   "name": "Ancient Souls",
   "is_illegal": false,
   "is_custom": true,
-  "text": "If this card is sent from the spell/trap zone to the GY; You can target 1 monster on the field; destroy it. You can not activate the following effects of \"Ancient Souls\" in the same chain. You can target 1 other \"Ancient\" card you control; destroy it, and if you do the ATK/DEF of all face up monsters your opponent controls become half their current ATK/DEF (even if this card leaves the field). You can target 1 \"Ancient\" monster in your GY special summon it in defence with its effects negated. You can only use each effect of \"Ancient Souls\" once per turn.",
+  "text": "If this card is sent from the spell/trap zone to the GY; You can target 1 monster on the field; destroy it. You can not activate the following effects of \"Ancient Souls\" in the same chain. You can target 1 other \"Ancient\" card you control;, ",
+  "text": "  destroy it, and if you do the ATK/DEF of all face up monsters your opponent controls become half their current ATK/DEF (even if this card leaves the field). You can target 1 \"Ancient\" monster in your GY special summon it in defence with its effects negated. You can only use each effect of \"Ancient Souls\" once per turn."
   "images": [
     "https://www.dropbox.com/scl/fi/8xb14iro6ayyc083h26kr/100000029.jpeg?rlkey=wdmy9c5bdf9j5nq6t8ipallw4&st=jacmw54g&dl=1"
   ],
