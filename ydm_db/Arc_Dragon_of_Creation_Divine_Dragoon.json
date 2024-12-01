@@ -1,0 +1,22 @@
+{
+  "id": 100000038,
+  "name": "Arc Dragon of Creation Divine Dragoon",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "6+ Dragoon Monsters with different names
+This monster must be fusion summoned with the above materials using \"Dragoon Fusion\" and cannot be fusion summoned any other way. This card is unaffected by your opponent's card effects. Once per turn, during either players turn you can discard a card, if you do skip your opponent's main phase. This card gains ATK and DEF equal to the number of Omni monsters in the GY or banished x1000. You cannot control any other monsters if you have this monster on the field. Once per dual, during your turn you can discard your hand and the top 10 cards of your deck, if you do you can destroy all other cards on the field and in your opponent's hand. Once per dual, to can send all cards in your extra deck to the gy, if you do draw a card from your deck for each sent by this effect. If this card on the field is in its owners control your opponent cannot use the effects of cards that would inflict damage to your life points.",
+   "images": [
+    "https://www.dropbox.com/scl/fi/na781goivs9efn3bsynkn/100000038.jpeg?rlkey=m395ly167ejs5zahwzmuxcvll&st=4tiw6otn&dl=1"
+  ],
+  "type": "Monster",
+  "attribute": "Divine",
+  "atk": 4500,
+  "species": "Omni",
+  "monster_type": "Fusion",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 4000,
+  "level": 12,
+  "is_tuner": false
+}
