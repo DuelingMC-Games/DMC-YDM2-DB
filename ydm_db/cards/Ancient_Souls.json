@@ -8,5 +8,5 @@
     "https://www.dropbox.com/scl/fi/8xb14iro6ayyc083h26kr/100000029.jpeg?rlkey=wdmy9c5bdf9j5nq6t8ipallw4&st=jacmw54g&dl=1"
   ],
   "type": "Trap",
-  "spell_type": "Continuous"
+  "trap_type": "Continuous"
 }
