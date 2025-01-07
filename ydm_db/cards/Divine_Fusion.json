@@ -1,0 +1,12 @@
+{
+  "id": 100000039,
+  "name": "Divine Fusion",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "This card is always treated as \"Dragoon Fusion\". Fusion summon 1 Fusion monster with Dragoon in its card name by banishing its Fusion materials from your hand, field or gy.",
+  "images": [
+    "https://www.dropbox.com/scl/fi/v60es7qukt2ziqowdk09n/100000039.png?rlkey=3o96pyovh4v8v6cwwm9jnh50n&st=6jq5i5ze&dl=1"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}
