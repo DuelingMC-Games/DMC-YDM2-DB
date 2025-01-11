@@ -10,7 +10,7 @@
   "type": "Monster",
   "attribute": "Dark",
   "atk": 3000,
-  "species": "Omni/Spellcaster/XYZ/Effect",
+  "species": "Omni/Dragon/XYZ/Effect",
   "monster_type": "XYZ",
   "is_pendulum": false,
   "ability": "",
