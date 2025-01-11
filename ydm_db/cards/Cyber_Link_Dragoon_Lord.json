@@ -1,0 +1,22 @@
+{
+  "id": 100000049,
+  "name": "Cyber Link Dragoon Lord",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "This card can only be Link Summoned by using 2 or more Omni monsters with different names as Link materials. (Once per turn): You can discard 1 card from your hand; target 1 monster on the field or in either player’s GY; banish it. If a monster is banished by this effect, this card gains ATK equal to the banished monster's original ATK until the end of the turn. If a Spell/Trap is banished, destroy 1 card your opponent controls. (Once per turn): If this card is Link Summoned using Omni monsters as materials, you can add 1 Omni monster from your Deck or GY to your hand, or Special Summon it if its Level is 6 or lower. (Quick Effect): During either player's turn, when an effect that would destroy a card on the field is activated, you can tribute 1 Omni monster from your field or hand to negate the activation. If you do, destroy that card and inflict 1000 points of damage to your opponent. (Once per turn): During your Main Phase, you can banish 1 Omni monster from your GY; this card gains ATK equal to the banished monster's original ATK until the end of the turn. You can also target 1 card your opponent controls and return it to the hand. If this card is destroyed by battle or card effect, you can Special Summon 1 Omni monster from your GY. That monster gains 1500 ATK, and you can equip \"Cyber Link Dragoon Lord\" to it as material.",
+   "images": [
+    "https://www.dropbox.com/scl/fi/c41h94275f43u518u6cpu/100000049.jpeg?rlkey=c8bocf97jpjsmb7ywq7vaj2km&st=ia6hozzm&dl=1"
+  ],
+  "type": "Monster",
+  "attribute": "Light",
+  "atk": 3000,
+  "species": "Omni",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+   "link_rating": 4,
+  "link_arrows": [
+    "Top-Left, Top-Right, Bottom-Left, Bottom-Right"
+  ]
+}
