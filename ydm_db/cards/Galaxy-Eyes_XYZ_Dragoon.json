@@ -3,14 +3,14 @@
   "name": "Galaxy-Eyes XYZ Dragoon",
   "is_illegal": false,
   "is_custom": true,
-  "text": "2 Level 8 LIGHT Omni monsters. You can also Xyz Summon this card by using 1 "Galaxy-Eyes" Xyz Monster or 1 Rank 8 Omni Xyz Monster you control as material (transfer its materials to this card). Once per turn (Quick Effect): You can detach 1 material from this card; target 1 card on the field or in either player’s GY, and banish it. If the banished card was a monster, this card gains 1000 ATK/DEF until the end of this turn. If this card has an Omni monster as material, it gains these effects: Once per turn: When your opponent activates a card or effect, you can banish 1 Omni monster from your hand, field, or GY; negate the activation, and if you do, destroy that card. If this card destroys a monster by battle: You can attach that monster to this card as material. If this card is destroyed by battle or card effect: You can Special Summon 1 Level 8 LIGHT Omni monster from your GY, then attach up to 2 Omni monsters from your GY to it as material. You can only use each effect of \"Galaxy-Eyes Omni Dragoon\" once per turn.",
+  "text": "2 Level 8 LIGHT Omni monsters. You can also Xyz Summon this card by using 1 \"Galaxy-Eyes\" Xyz Monster or 1 Rank 8 Omni Xyz Monster you control as material (transfer its materials to this card). Once per turn (Quick Effect): You can detach 1 material from this card; target 1 card on the field or in either player’s GY, and banish it. If the banished card was a monster, this card gains 1000 ATK/DEF until the end of this turn. If this card has an Omni monster as material, it gains these effects: Once per turn: When your opponent activates a card or effect, you can banish 1 Omni monster from your hand, field, or GY; negate the activation, and if you do, destroy that card. If this card destroys a monster by battle: You can attach that monster to this card as material. If this card is destroyed by battle or card effect: You can Special Summon 1 Level 8 LIGHT Omni monster from your GY, then attach up to 2 Omni monsters from your GY to it as material. You can only use each effect of \"Galaxy-Eyes Omni Dragoon\" once per turn.",
    "images": [
     "https://www.dropbox.com/scl/fi/vpgkfl86trvchhqwis354/100000045.jpeg?rlkey=gelhgbxevg960wmfbvirgza3s&st=352kijy2&dl=1"
   ],
   "type": "Monster",
   "attribute": "Light",
   "atk": 3000,
-  "species": "Omni/Spellcaster/XYZ/Effect",
+  "species": "Omni/Dragon/XYZ/Effect",
   "monster_type": "XYZ",
   "is_pendulum": false,
   "ability": "",
