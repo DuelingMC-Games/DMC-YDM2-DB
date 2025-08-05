@@ -1,478 +1,479 @@
 {
-  "name": "Powers of the Past",
-  "code": "POPA",
-  "type": "60 Card Set",
-  "date": "2-16-2025",
-  "image": "",
-  "pull_type": "distribution",
-  "distribution": "60_card_set_with_collector_s_rare",
-  "cards": [
-    {
-      "id": 69003792,
-      "code": "POPA-001",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 40204620,
-      "code": "POPA-002",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 84504242,
-      "code": "POPA-003",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 78990927,
-      "code": "POPA-004",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 78990927,
-      "code": "POPA-004",
-      "rarity": "Collector\u0027s Rare",
-      "image_index": 0
-    },
-    {
-      "id": 63233638,
-      "code": "POPA-005",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 63056220,
-      "code": "POPA-006",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 36849933,
-      "code": "POPA-007",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 90444325,
-      "code": "POPA-008",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 76209339,
-      "code": "POPA-009",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 99628747,
-      "code": "POPA-010",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 25726386,
-      "code": "POPA-011",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 59531356,
-      "code": "POPA-012",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 96897184,
-      "code": "POPA-013",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 96897184,
-      "code": "POPA-013",
-      "rarity": "Collector\u0027s Rare",
-      "image_index": 0
-    },
-    {
-      "id": 86520461,
-      "code": "POPA-014",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 17706537,
-      "code": "POPA-015",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 83656563,
-      "code": "POPA-016",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 57157964,
-      "code": "POPA-017",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 57157964,
-      "code": "POPA-017",
-      "rarity": "Collector\u0027s Rare",
-      "image_index": 0
-    },
-    {
-      "id": 10040267,
-      "code": "POPA-018",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 59419719,
-      "code": "POPA-019",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 42009836,
-      "code": "POPA-020",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 21225115,
-      "code": "POPA-021",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 21225115,
-      "code": "POPA-021",
-      "rarity": "Collector\u0027s Rare",
-      "image_index": 0
-    },
-    {
-      "id": 12015000,
-      "code": "POPA-022",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 34959756,
-      "code": "POPA-023",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 12292422,
-      "code": "POPA-024",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 23147658,
-      "code": "POPA-025",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 44297127,
-      "code": "POPA-026",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 85808813,
-      "code": "POPA-027",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 10163855,
-      "code": "POPA-028",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 84778110,
-      "code": "POPA-029",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 14258627,
-      "code": "POPA-030",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 20781762,
-      "code": "POPA-031",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 26956670,
-      "code": "POPA-032",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 57354389,
-      "code": "POPA-033",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 48115277,
-      "code": "POPA-034",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 42143067,
-      "code": "POPA-035",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 71544954,
-      "code": "POPA-036",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 72580321,
-      "code": "POPA-037",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 94689206,
-      "code": "POPA-038",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 94689206,
-      "code": "POPA-038",
-      "rarity": "Collector\u0027s Rare",
-      "image_index": 0
-    },
-    {
-      "id": 27204311,
-      "code": "POPA-039",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 27204311,
-      "code": "POPA-039",
-      "rarity": "Collector\u0027s Rare",
-      "image_index": 0
-    },
-    {
-      "id": 36187051,
-      "code": "POPA-040",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 12467005,
-      "code": "POPA-041",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 87347365,
-      "code": "POPA-042",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 32274490,
-      "code": "POPA-043",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 36021814,
-      "code": "POPA-044",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 36021814,
-      "code": "POPA-044",
-      "rarity": "Collector\u0027s Rare",
-      "image_index": 0
-    },
-    {
-      "id": 22970795,
-      "code": "POPA-045",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 90243945,
-      "code": "POPA-046",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 57473560,
-      "code": "POPA-047",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 22339232,
-      "code": "POPA-048",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 6128460,
-      "code": "POPA-049",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 100000056,
-      "code": "POPA-050",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 100000057,
-      "code": "POPA-051",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 40991587,
-      "code": "POPA-052",
-      "rarity": "Super Rare",
-      "image_index": 0
-    },
-    {
-      "id": 2204140,
-      "code": "POPA-053",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 2204140,
-      "code": "POPA-053",
-      "rarity": "Collector\u0027s Rare",
-      "image_index": 0
-    },
-    {
-      "id": 23424603,
-      "code": "POPA-054",
-      "rarity": "Rare",
-      "image_index": 0
-    },
-    {
-      "id": 81439173,
-      "code": "POPA-055",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 81439173,
-      "code": "POPA-055",
-      "rarity": "Collector\u0027s Rare",
-      "image_index": 0
-    },
-    {
-      "id": 48976825,
-      "code": "POPA-056",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 48976825,
-      "code": "POPA-056",
-      "rarity": "Collector\u0027s Rare",
-      "image_index": 0
-    },
-    {
-      "id": 14558127,
-      "code": "POPA-057",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 14558127,
-      "code": "POPA-057",
-      "rarity": "Collector\u0027s Rare",
-      "image_index": 0
-    },
-    {
-      "id": 73642296,
-      "code": "POPA-058",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 73642296,
-      "code": "POPA-058",
-      "rarity": "Collector\u0027s Rare",
-      "image_index": 0
-    },
-    {
-      "id": 52038441,
-      "code": "POPA-059",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 52038441,
-      "code": "POPA-059",
-      "rarity": "Collector\u0027s Rare",
-      "image_index": 0
-    },
-    {
-      "id": 59438930,
-      "code": "POPA-060",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 59438930,
-      "code": "POPA-060",
-      "rarity": "Collector\u0027s Rare",
-      "image_index": 0
-    },
-    {
-      "id": 60643553,
-      "code": "POPA-061",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 60643553,
-      "code": "POPA-061",
-      "rarity": "Collector\u0027s Rare",
-      "image_index": 0
-    },
-    {
-      "id": 62015408,
-      "code": "POPA-062",
-      "rarity": "Ultra Rare",
-      "image_index": 0
-    },
-    {
-      "id": 62015408,
-      "code": "POPA-062",
-      "rarity": "Collector\u0027s Rare",
-      "image_index": 0
-    }
+    "name": "Powers of the Past",
+    "code": "POPA",
+    "type": "60 Card Set",
+    "date": "2-16-2025",
+    "image": "",
+    "pull_type": "distribution",
+    "distribution": "60_card_set_with_collector_s_rare",
+    "cards": [
+        {
+            "id": 69003792,
+            "code": "POPA-001",
+            "rarity": "Super Rare",
+            "image_index": 0
+        },
+        {
+            "id": 40204620,
+            "code": "POPA-002",
+            "rarity": "Rare",
+            "image_index": 0
+        },
+        {
+            "id": 84504242,
+            "code": "POPA-003",
+            "rarity": "Rare",
+            "image_index": 0
+        },
+        {
+            "id": 78990927,
+            "code": "POPA-004",
+            "rarity": "Ultra Rare",
+            "image_index": 0
+        },
+        {
+            "id": 78990927,
+            "code": "POPA-004",
+            "rarity": "Collector\u0027s Rare",
+            "image_index": 0
+        },
+        {
+            "id": 63233638,
+            "code": "POPA-005",
+            "rarity": "Rare",
+            "image_index": 0
+        },
+        {
+            "id": 63056220,
+            "code": "POPA-006",
+            "rarity": "Super Rare",
+            "image_index": 0
+        },
+        {
+            "id": 36849933,
+            "code": "POPA-007",
+            "rarity": "Rare",
+            "image_index": 0
+        },
+        {
+            "id": 90444325,
+            "code": "POPA-008",
+            "rarity": "Rare",
+            "image_index": 0
+        },
+        {
+            "id": 76209339,
+            "code": "POPA-009",
+            "rarity": "Rare",
+            "image_index": 0
+        },
+        {
+            "id": 99628747,
+            "code": "POPA-010",
+            "rarity": "Super Rare",
+            "image_index": 0
+        },
+        {
+            "id": 25726386,
+            "code": "POPA-011",
+            "rarity": "Rare",
+            "image_index": 0
+        },
+        {
+            "id": 59531356,
+            "code": "POPA-012",
+            "rarity": "Super Rare",
+            "image_index": 0
+        },
+        {
+            "id": 96897184,
+            "code": "POPA-013",
+            "rarity": "Ultra Rare",
+            "image_index": 0
+        },
+        {
+            "id": 96897184,
+            "code": "POPA-013",
+            "rarity": "Collector\u0027s Rare",
+            "image_index": 0
+        },
+        {
+            "id": 86520461,
+            "code": "POPA-014",
+            "rarity": "Rare",
+            "image_index": 0
+        },
+        {
+            "id": 17706537,
+            "code": "POPA-015",
+            "rarity": "Rare",
+            "image_index": 0
+        },
+        {
+            "id": 83656563,
+            "code": "POPA-016",
+            "rarity": "Super Rare",
+            "image_index": 0
+        },
+        {
+            "id": 57157964,
+            "code": "POPA-017",
+            "rarity": "Ultra Rare",
+            "image_index": 0
+        },
+        {
+            "id": 57157964,
+            "code": "POPA-017",
+            "rarity": "Collector\u0027s Rare",
+            "image_index": 0
+        },
+        {
+            "id": 10040267,
+            "code": "POPA-018",
+            "rarity": "Rare",
+            "image_index": 0
+        },
+        {
+            "id": 59419719,
+            "code": "POPA-019",
+            "rarity": "Super Rare",
+            "image_index": 0
+        },
+        {
+            "id": 42009836,
+            "code": "POPA-020",
+            "rarity": "Rare",
+            "image_index": 0
+        },
+        {
+            "id": 21225115,
+            "code": "POPA-021",
+            "rarity": "Ultra Rare",
+            "image_index": 0
+        },
+        {
+            "id": 21225115,
+            "code": "POPA-021",
+            "rarity": "Collector\u0027s Rare",
+            "image_index": 0
+        },
+        {
+            "id": 12015000,
+            "code": "POPA-022",
+            "rarity": "Rare",
+            "image_index": 0
+        },
+        {
+            "id": 34959756,
+            "code": "POPA-023",
+            "rarity": "Rare",
+            "image_index": 0
+        },
+        {
+            "id": 12292422,
+            "code": "POPA-024",
+            "rarity": "Rare",
+            "image_index": 0
+        },
+        {
+            "id": 23147658,
+            "code": "POPA-025",
+            "rarity": "Super Rare",
+            "image_index": 0
+        },
+        {
+            "id": 44297127,
+            "code": "POPA-026",
+            "rarity": "Rare",
+            "image_index": 0
+        },
+        {
+            "id": 85808813,
+            "code": "POPA-027",
+            "rarity": "Rare",
+            "image_index": 0
+        },
+        {
+            "id": 10163855,
+            "code": "POPA-028",
+            "rarity": "Rare",
+            "image_index": 0
+        },
+        {
+            "id": 84778110,
+            "code": "POPA-029",
+            "rarity": "Rare",
+            "image_index": 0
+        },
+        {
+            "id": 14258627,
+            "code": "POPA-030",
+            "rarity": "Super Rare",
+            "image_index": 0
+        },
+        {
+            "id": 20781762,
+            "code": "POPA-031",
+            "rarity": "Rare",
+            "image_index": 0
+        },
+        {
+            "id": 26956670,
+            "code": "POPA-032",
+            "rarity": "Rare",
+            "image_index": 0
+        },
+        {
+            "id": 57354389,
+            "code": "POPA-033",
+            "rarity": "Rare",
+            "image_index": 0
+        },
+        {
+            "id": 48115277,
+            "code": "POPA-034",
+            "rarity": "Rare",
+            "image_index": 0
+        },
+        {
+            "id": 42143067,
+            "code": "POPA-035",
+            "rarity": "Super Rare",
+            "image_index": 0
+        },
+        {
+            "id": 71544954,
+            "code": "POPA-036",
+            "rarity": "Rare",
+            "image_index": 0
+        },
+        {
+            "id": 72580321,
+            "code": "POPA-037",
+            "rarity": "Rare",
+            "image_index": 0
+        },
+        {
+            "id": 94689206,
+            "code": "POPA-038",
+            "rarity": "Ultra Rare",
+            "image_index": 0
+        },
+        {
+            "id": 94689206,
+            "code": "POPA-038",
+            "rarity": "Collector\u0027s Rare",
+            "image_index": 0
+        },
+        {
+            "id": 27204311,
+            "code": "POPA-039",
+            "rarity": "Ultra Rare",
+            "image_index": 0
+        },
+        {
+            "id": 27204311,
+            "code": "POPA-039",
+            "rarity": "Collector\u0027s Rare",
+            "image_index": 0
+        },
+        {
+            "id": 36187051,
+            "code": "POPA-040",
+            "rarity": "Super Rare",
+            "image_index": 0
+        },
+        {
+            "id": 12467005,
+            "code": "POPA-041",
+            "rarity": "Rare",
+            "image_index": 0
+        },
+        {
+            "id": 87347365,
+            "code": "POPA-042",
+            "rarity": "Rare",
+            "image_index": 0
+        },
+        {
+            "id": 32274490,
+            "code": "POPA-043",
+            "rarity": "Rare",
+            "image_index": 0
+        },
+        {
+            "id": 36021814,
+            "code": "POPA-044",
+            "rarity": "Ultra Rare",
+            "image_index": 0
+        },
+        {
+            "id": 36021814,
+            "code": "POPA-044",
+            "rarity": "Collector\u0027s Rare",
+            "image_index": 0
+        },
+        {
+            "id": 22970795,
+            "code": "POPA-045",
+            "rarity": "Rare",
+            "image_index": 0
+        },
+        {
+            "id": 90243945,
+            "code": "POPA-046",
+            "rarity": "Rare",
+            "image_index": 0
+        },
+        {
+            "id": 57473560,
+            "code": "POPA-047",
+            "rarity": "Rare",
+            "image_index": 0
+        },
+        {
+            "id": 22339232,
+            "code": "POPA-048",
+            "rarity": "Rare",
+            "image_index": 0
+        },
+        {
+            "id": 6128460,
+            "code": "POPA-049",
+            "rarity": "Super Rare",
+            "image_index": 0
+        },
+        {
+            "id": 100000056,
+            "code": "POPA-050",
+            "rarity": "Super Rare",
+            "image_index": 0
+        },
+        {
+            "id": 100000057,
+            "code": "POPA-051",
+            "rarity": "Rare",
+            "image_index": 0
+        },
+        {
+            "id": 40991587,
+            "code": "POPA-052",
+            "rarity": "Super Rare",
+            "image_index": 0
+        },
+        {
+            "id": 2204140,
+            "code": "POPA-053",
+            "rarity": "Ultra Rare",
+            "image_index": 0
+        },
+        {
+            "id": 2204140,
+            "code": "POPA-053",
+            "rarity": "Collector\u0027s Rare",
+            "image_index": 0
+        },
+        {
+            "id": 23424603,
+            "code": "POPA-054",
+            "rarity": "Rare",
+            "image_index": 0
+        },
+        {
+            "id": 81439173,
+            "code": "POPA-055",
+            "rarity": "Ultra Rare",
+            "image_index": 0
+        },
+        {
+            "id": 81439173,
+            "code": "POPA-055",
+            "rarity": "Collector\u0027s Rare",
+            "image_index": 0
+        },
+        {
+            "id": 48976825,
+            "code": "POPA-056",
+            "rarity": "Ultra Rare",
+            "image_index": 0
+        },
+        {
+            "id": 48976825,
+            "code": "POPA-056",
+            "rarity": "Collector\u0027s Rare",
+            "image_index": 0
+        },
+        {
+            "id": 14558127,
+            "code": "POPA-057",
+            "rarity": "Ultra Rare",
+            "image_index": 0
+        },
+        {
+            "id": 14558127,
+            "code": "POPA-057",
+            "rarity": "Collector\u0027s Rare",
+            "image_index": 0
+        },
+        {
+            "id": 73642296,
+            "code": "POPA-058",
+            "rarity": "Ultra Rare",
+            "image_index": 0
+        },
+        {
+            "id": 73642296,
+            "code": "POPA-058",
+            "rarity": "Collector\u0027s Rare",
+            "image_index": 0
+        },
+        {
+            "id": 52038441,
+            "code": "POPA-059",
+            "rarity": "Ultra Rare",
+            "image_index": 0
+        },
+        {
+            "id": 52038441,
+            "code": "POPA-059",
+            "rarity": "Collector\u0027s Rare",
+            "image_index": 0
+        },
+        {
+            "id": 59438930,
+            "code": "POPA-060",
+            "rarity": "Ultra Rare",
+            "image_index": 0
+        },
+        {
+            "id": 59438930,
+            "code": "POPA-060",
+            "rarity": "Collector\u0027s Rare",
+            "image_index": 0
+        },
+        {
+            "id": 60643553,
+            "code": "POPA-061",
+            "rarity": "Ultra Rare",
+            "image_index": 0
+        },
+        {
+            "id": 60643553,
+            "code": "POPA-061",
+            "rarity": "Collector\u0027s Rare",
+            "image_index": 0
+        },
+        {
+            "id": 62015408,
+            "code": "POPA-062",
+            "rarity": "Ultra Rare",
+            "image_index": 0
+        },
+        {
+            "id": 62015408,
+            "code": "POPA-062",
+            "rarity": "Collector\u0027s Rare",
+            "image_index": 0
+        }
+    ]
 }
