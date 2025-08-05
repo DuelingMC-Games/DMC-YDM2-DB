@@ -1,0 +1,21 @@
+{
+  "id": 100000057,
+  "name": "Four Knight's of the Apocalypse, Horsemen of Pestilence",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "Your Opponent takes damage when a monster the control is destroyed equal to that monsters original ATK. Whenever a monster(s) is summoned your opponent take 500 damage. When your opponent activates a spell or trap inflict 1000 damage to your opponent.",
+  "images": [
+    "https://www.dropbox.com/scl/fi/xrpe2n4gb4is8o3tq9u4x/100000057.jpeg?rlkey=yk0ai5kw6x7tbpfdxcxyl1ec0&st=e10k1rjp&dl=1"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 4000,
+  "species": "Knight's of the Apocalypse/Omni/Zombie/Warrior/Effect/Ritual",
+  "monster_type": "Ritual",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "def": 2500,
+  "level": 8,
+  "is_tuner": false
+}

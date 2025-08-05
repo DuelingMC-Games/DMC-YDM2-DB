@@ -1,0 +1,12 @@
+{
+  "id": 100000054,
+  "name": "Dragoon's road",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "This card is always treated as a "Omni" spell. Once per turn; during your main phase you can special summon one "Omni" monster from your hand, deck, or grave yard, or you can discard one card and special summon a "Dragoon" fusion monster from you extra deck, if you special summon a "Dragoon" fusion monster this way it is treated as if it was fusion summoned. Each "Dragoon" monster's you control cannot be destroyed by battle or card effects once per turn.",
+  "images": [
+    "https://www.dropbox.com/scl/fi/va0bptjzrlxlsihb80viz/100000054.jpeg?rlkey=b7mszebqs7z7iuz3dvn6rszeu&st=4hn52o5c&dl=1"
+  ],
+  "type": "Spell",
+  "spell_type": "Field"
+}
