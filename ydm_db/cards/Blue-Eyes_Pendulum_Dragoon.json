@@ -17,7 +17,7 @@
   "has_effect": true,
   "def": 2500,
   "level": 8,
-  "is_tuner": false
+  "is_tuner": false,
 "pendulum_text": "Once per turn: You can Special Summon 1 Level 7 or higher LIGHT Omni monster from your hand or GY, but its effects are negated, and it cannot attack this turn. If you control a LIGHT Omni monster: You can destroy 1 card in your Pendulum Zone; negate the activation of a card or effect, and if you do, destroy that card. If you have another Omni Pendulum monster in the other Pendulum zone this card has its pendulum scale increased by 1. You can only use each Pendulum Effect of \"Blue-Eyes Omni Dragoon\" once per turn.\n",
   "pendulum_scale_left_blue": 12,
   "pendulum_scale_right_red": 12
