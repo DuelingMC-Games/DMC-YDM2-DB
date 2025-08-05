@@ -11,7 +11,7 @@
   "attribute": "Light",
   "atk": 3000,
   "species": "Omni/Dragon/Pendulum/Effect",
-  "monster_type": "Effect",
+  "monster_type": "Pendulum",
   "is_pendulum": true,
   "ability": "",
   "has_effect": true,
