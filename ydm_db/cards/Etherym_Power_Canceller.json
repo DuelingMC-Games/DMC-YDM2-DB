@@ -3,14 +3,14 @@
   "name": "Etherym Power Canceller",
   "is_illegal": false,
   "is_custom": true,
-  "text": "You can banish 1 Etherym monster from your GY, then target 1 spell/trap on the field; destroy that target. An Etherym Xyz monster Xyz summoned with this card as material gains this effect: You can detach 2 Xyz material from this card; (quick effect) banish 1 spell/trap your opponent controls.",
+  "text": "You can banish 1 \"Etherym\" monster from your GY, then target 1 Spell/Trap Card on the field; destroy that target. An \"Etherym\" Xyz Monster Xyz Summoned with this card as Xyz Material gains this effect:\n? You can detach 2 Xyz Materials from this card (Quick Effect); Banish 1 Spell/Trap Card your opponent controls.",
   "images": [
     "https://www.dropbox.com/scl/fi/x0acgxx0zfhaxvmffyu53/100000004.jpg?rlkey=52eck9pmbvo3i1rp7o9mz6dkd&st=3l9cw8qt&dl=1"
   ],
   "type": "Monster",
   "attribute": "WATER",
   "atk": 1800,
-  "species": "SEA SERPENT",
+  "species": "Sea Serpent",
   "monster_type": "",
   "is_pendulum": false,
   "ability": "",

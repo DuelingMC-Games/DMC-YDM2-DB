@@ -18,7 +18,7 @@
   "def": 1400,
   "level": 3,
   "is_tuner": true,
-  "pendulum_text": "Unless you have a \"Magician\" card in your other Pendulum Zone, destroy this card.\n",
+  "pendulum_text": "Unless you have a \"Magician\" card in your other Pendulum Zone, destroy this card.",
   "pendulum_scale_left_blue": 5,
   "pendulum_scale_right_red": 5
 }

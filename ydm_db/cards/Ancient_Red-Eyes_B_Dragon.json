@@ -1,6 +1,6 @@
 {
   "id": 100000022,
-  "name": "Ancient Red-Eyes B Dragon",
+  "name": "Ancient Red-Eyes B. Dragon",
   "is_illegal": false,
   "is_custom": true,
   "text": "One of the ancient Dragon gods said to have been lost to time.",
@@ -10,7 +10,7 @@
   "type": "Monster",
   "attribute": "DARK",
   "atk": 3000,
-  "species": "Omni/Dragon",
+  "species": "Dragon/Omni",
   "monster_type": "Normal",
   "is_pendulum": false,
   "ability": "",

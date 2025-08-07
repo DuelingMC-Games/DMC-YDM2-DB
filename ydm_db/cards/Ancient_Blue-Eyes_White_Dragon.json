@@ -8,7 +8,7 @@
     "https://www.dropbox.com/scl/fi/4thx2khzcuqji51duaxfv/100000035.jpeg?rlkey=t69mqjhm75ydzw3a9h4xxjyvg&st=4vzcjrjl&dl=1"
   ],
   "type": "Monster",
-  "attribute": "Light",
+  "attribute": "LIGHT",
   "atk": 3500,
   "species": "Dragon/Omni",
   "monster_type": "Normal",

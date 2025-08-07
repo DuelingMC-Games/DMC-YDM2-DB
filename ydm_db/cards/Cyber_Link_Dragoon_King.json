@@ -3,12 +3,12 @@
   "name": "Cyber Link Dragoon King",
   "is_illegal": false,
   "is_custom": true,
-  "text": "Link Summon Requirement: This card can only be Link Summoned by using 4 or more Omni monsters with different names as Link materials. Once per turn (Quick Effect): You can discard 1 card; target 1 card on the field or in either player’s GY; banish it. If a monster is banished, this card gains ATK equal to the banished monster's original ATK until the end of the turn. If a Spell or Trap card is banished, you can destroy 1 card your opponent controls. (Once per turn): If this card has 1 or more Omni monsters it points to, when a card or effect is activated (Quick Effect): You can tribute 1 Omni monster from your hand or field to negate the activation. If you do, destroy that card. (During Main Phase): You can banish 1 Omni monster from your GY; this card gains ATK equal to the banished monster's original ATK. You can also inflict 1000 points of damage to your opponent for each monster banished by this effect. If this card is destroyed by battle or card effect, you can Special Summon 1 Omni monster from your GY. You can then equip this card to that monster as a spell. The monster gains 1000 ATK and can negate 1 effect per turn.",
+  "text": "4+  \"Omni\" monsters with different names\nThis card can only be Link Summoned by using the above materials. Once per turn (Quick Effect): You can discard 1 card; target 1 card on the field or in either player’s GY(s); banish it. If a monster is banished: This card gains ATK equal to the banished monster\u0027s original ATK until the end of the turn. If a Spell or Trap card is banished: you can destroy 1 card your opponent controls. Once per turn, if this card is pointing to 1 or more \"Omni\" monsters, when a card or effect is activated (Quick Effect): You can tribute 1 \"Omni\" monster from your hand or field to negate the activation. If you do, destroy that card. During your Main Phase, you can banish 1 \"Omni\" monster from your GY; this card gains ATK equal to the banished monster\u0027s original ATK. If you do, inflict 1000 damage to your opponent\u0027s Life Points. If this card is destroyed by battle or by card effect: You can Special Summon 1 \"Omni\" monster from your GY, and if you do, you can equip this card to that monster as an Equip Spell. That monster gains 1000 ATK and can negate 1 effect per turn.",
    "images": [
     "https://www.dropbox.com/scl/fi/hwqjwu0q7f8qsbqkuutlc/100000050.jpeg?rlkey=02gvukkmgsuu9nocpp9f117vx&st=jrj5jzaj&dl=1"
   ],
   "type": "Monster",
-  "attribute": "Light",
+  "attribute": "LIGHT",
   "atk": 4000,
   "species": "Omni",
   "monster_type": "Link",
@@ -17,6 +17,13 @@
   "has_effect": true,
    "link_rating": 8,
   "link_arrows": [
-    "Top-Left, Top-Right, Bottom-Left, Bottom-Right, Left, Right, Bottom, Top"
+    "Top-Left",
+    "Top-Right",
+    "Bottom-Left",
+    "Bottom-Right",
+    "Left",
+    "Right",
+    "Bottom",
+    "Top"
   ]
 }

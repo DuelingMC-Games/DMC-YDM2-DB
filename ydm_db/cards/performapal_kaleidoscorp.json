@@ -18,7 +18,7 @@
   "def": 2300,
   "level": 6,
   "is_tuner": false,
-  "pendulum_text": "All LIGHT monsters you control gain 300 ATK.\n",
+  "pendulum_text": "All LIGHT monsters you control gain 300 ATK.",
   "pendulum_scale_left_blue": 4,
   "pendulum_scale_right_red": 4
 }

@@ -3,14 +3,14 @@
   "name": "Stardust Shining Dragoon",
   "is_illegal": false,
   "is_custom": true,
-  "text": "1 Omni Tuner Monster + 1 or more non-Tuner Omni Monsters. When this monster is Synchro Summoned; You can target up to 3 cards from your opponent’s field and/or GY, if you do banish those targets. For each card banished, this card gains 1000 ATK until the end of the turn. Once per turn (Quick Effect): When your opponent activates a card or effect, you can banish 1 monster from your GY or Tribute 1 monster you control; negate the activation, and if you do, banish that card. If this card is Tributed or banished by its own effect: During the End Phase, you can Special Summon this card from your GY. When you do, this card gains 1000 ATK/DEF and becomes unaffected by your opponent’s card effects until the end of your next turn. You can only use each effect of \"Stardust Shining Dragoon\" once per turn.",
+  "text": "1 Omni Tuner Monster + 1 or more non-Tuner Omni Monsters\nWhen this monster is Synchro Summoned: You can target up to 3 cards from your opponent\u0027s field and/or GY; Banish those targets. For each card banished, this card gains 1000 ATK until the end of the turn. Once per turn, when your opponent activates a card or effect (Quick Effect): You can banish 1 monster from your GY or Tribute 1 monster you control; negate the activation, and if you do, banish that card. If this card is Tributed or banished by its own effect: During the End Phase, you can Special Summon this card from your GY. When you do, this card gains 1000 ATK/DEF and becomes unaffected by your opponent’s card effects until the end of your next turn. You can only use each effect of \"Stardust Shining Dragoon\" once per turn.",
    "images": [
     "https://www.dropbox.com/scl/fi/s61yrb6e600jfbshu0o28/100000043.jpeg?rlkey=m2c47l1ynapiig5j85s5sij5d&st=z3mprpnx&dl=1"
   ],
   "type": "Monster",
-  "attribute": "Light",
+  "attribute": "LIGHT",
   "atk": 3500,
-  "species": "Omni/Dragon",
+  "species": "Dragon/Omni",
   "monster_type": "Synchro",
   "is_pendulum": false,
   "ability": "",

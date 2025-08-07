@@ -18,7 +18,7 @@
   "def": 2000,
   "level": 6,
   "is_tuner": false,
-  "pendulum_text": "You can target 1 Fusion, Synchro, or Xyz Monster your opponent controls; negate its effects until the end of this turn, then destroy this card in the Pendulum Zone. You can only use this effect of \"D/D Dog\" once per turn.\n",
+  "pendulum_text": "You can target 1 Fusion, Synchro, or Xyz Monster your opponent controls; negate its effects until the end of this turn, then destroy this card in the Pendulum Zone. You can only use this effect of \"D/D Dog\" once per turn.",
   "pendulum_scale_left_blue": 3,
   "pendulum_scale_right_red": 3
 }

@@ -10,7 +10,7 @@
   "type": "Monster",
   "attribute": "DARK",
   "atk": 3000,
-  "species": "Omni/Spellcaster",
+  "species": "Spellcaster/Omni",
   "monster_type": "Normal",
   "is_pendulum": false,
   "ability": "",

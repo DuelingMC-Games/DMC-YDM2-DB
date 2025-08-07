@@ -3,12 +3,12 @@
   "name": "Cyber Link Dragoon Proto",
   "is_illegal": false,
   "is_custom": true,
-  "text": "This card can be Link Summoned by using 2 Omni monsters with different names as Link materials. (Once per turn): You can discard 1 card; target 1 monster on the field or in either player’s GY; banish it. If a monster is banished, this card gains ATK equal to the banished monster’s original ATK until the end of the turn. (Once per turn): If this card is Link Summoned using Omni monsters as materials, you can add 1 Omni card from your Deck or GY to your hand. You can only use this effect if \"Cyber Link Dragoon Proto\" has Omni monsters as its Link materials. (Quick Effect): During your opponent's turn, you can banish 1 Omni monster from your GY; this card gains 1000 ATK until the end of the turn. If this card is destroyed by battle or card effect, you can Special Summon 1 Omni monster from your GY, and if you do, you can equip \"Cyber Link Dragoon Proto\" to that monster as a spell that gives that monster 500 ATK.",
+  "text": "This card can be Link Summoned by using 2 \"Omni\" monsters with different names as Link materials. (Once per turn): You can discard 1 card; target 1 monster on the field or in either player’s GY; banish it. If a monster is banished, this card gains ATK equal to the banished monster’s original ATK until the end of the turn. (Once per turn): If this card is Link Summoned using \"Omni\" monsters as materials, you can add 1 Omni card from your Deck or GY to your hand. You can only use this effect if \"Cyber Link Dragoon Proto\" has \"Omni\" monsters as its Link materials. (Quick Effect): During your opponent\u0027s turn, you can banish 1 \"Omni\" monster from your GY; this card gains 1000 ATK until the end of the turn. If this card is destroyed by battle or card effect, you can Special Summon 1 \"Omni\" monster from your GY, and if you do, you can equip \"Cyber Link Dragoon Proto\" to that monster as an Equip Spell that gives that monster 500 ATK.",
    "images": [
     "https://www.dropbox.com/scl/fi/tobtr16ryi36g27h8eurk/100000048.jpeg?rlkey=bib4pciwuw9kxkog519opa1fg&st=uz5odhll&dl=1"
   ],
   "type": "Monster",
-  "attribute": "Light",
+  "attribute": "LIGHT",
   "atk": 1500,
   "species": "Omni",
   "monster_type": "Link",
@@ -17,6 +17,7 @@
   "has_effect": true,
    "link_rating": 2,
   "link_arrows": [
-    "Bottom-Left, Bottom-Right"
+    "Bottom-Left",
+    "Bottom-Right"
   ]
 }
