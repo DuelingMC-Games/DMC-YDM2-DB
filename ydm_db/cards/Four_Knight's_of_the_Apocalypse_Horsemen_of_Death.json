@@ -3,14 +3,14 @@
   "name": "Four Knight\u0027s of the Apocalypse, Horsemen of Death",
   "is_illegal": false,
   "is_custom": true,
-  "text": "This card can only be Summoned when you have three other Knight\u0027s of the Apocalypse Ritual Monsters on the field. This card gains 500 ATK for each monster in either player\u0027s Graveyards or are banished. All of your opponent\u0027s cards are banished instead of going to the GY. Once per turn; you can Special Summon a \"Omni\" monster from your GY.",
+  "text": "This card can only be Summoned when you have three other Knight\u0027s of the Apocalypse Ritual Monsters on the field. This card gains 500 ATK for each monster in either player\u0027s GY(s) or banishment. All of your opponent\u0027s cards are banished instead of going to the GY. Once per turn; you can Special Summon a Omni monster from your GY.",
   "images": [
     "https://www.dropbox.com/scl/fi/hqqwxezvg8ogny7nl5t5b/100000055.jpeg?rlkey=tkvsjmgq7n6sj2qkk3eb867i7&st=rgazt63x&dl=1"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 3500,
-  "species": "Knight\u0027s of the Apocalypse/Omni/Zombie/Warrior",
+  "species": "Knight\u0027s of the Apocalypse/Zombie/Warrior/Omni",
   "monster_type": "Ritual",
   "is_pendulum": false,
   "ability": "",

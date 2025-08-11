@@ -3,14 +3,14 @@
   "name": "Four Knight\u0027s of the Apocalypse, Horsemen of War",
   "is_illegal": false,
   "is_custom": true,
-  "text": "You can only Summon this card if you control \"Four Knight\u0027s of the Apocalypse, Horsemen of Pestilence\". Monsters your opponent controls must attack your opponent directly or each other during each Battle Phase, then this monster gains 500 ATK for each monster destroyed in battle in this way.",
+  "text": "You can only Summon this card if you control \"Four Knight\u0027s of the Apocalypse, Horsemen of Conquest\". Monsters your opponent controls must attack your opponent directly or each other during each Battle Phase, then this monster gains 500 ATK for each monster destroyed in battle in this way.",
   "images": [
     "https://www.dropbox.com/scl/fi/ht5rjb4gv5uwzm4k8kbjo/100000056.jpeg?rlkey=a988dm18uth7f26ysdgm2147u&st=2fyik48j&dl=1"
   ],
   "type": "Monster",
   "attribute": "DARK",
   "atk": 3000,
-  "species": "Knight\u0027s of the Apocalypse/Omni/Zombie/Warrior",
+  "species": "Knight\u0027s of the Apocalypse/Zombie/Warrior/Omni",
   "monster_type": "Ritual",
   "is_pendulum": false,
   "ability": "",

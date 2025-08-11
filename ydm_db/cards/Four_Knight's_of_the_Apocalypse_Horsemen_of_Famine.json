@@ -10,7 +10,7 @@
   "type": "Monster",
   "attribute": "DARK",
   "atk": 3500,
-  "species": "Knight\u0027s of the Apocalypse/Omni/Zombie/Warrior",
+  "species": "Knight\u0027s of the Apocalypse/Zombie/Warrior/Omni",
   "monster_type": "Ritual",
   "is_pendulum": false,
   "ability": "",
