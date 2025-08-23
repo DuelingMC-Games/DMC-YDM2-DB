@@ -1,0 +1,21 @@
+{
+  "id": 100000061,
+  "name": "Violet-Eyes Grey Dragon",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "\"Blue-Eyes White Dragon\" + \"Red-Eyes Black Dragon\"\nOnce per turn: You can discard 1 card; activate one of the following effects:\n? Destroy all monsters your opponent controls.\n? Inflict damage to your opponent equal to the current ATK of this card.\n\"Violet-Eyes Grey Dragon\"(s) you control cannot attack the turn you activate this effect.",
+  "images": [
+    "https://www.dropbox.com/scl/fi/vvb81r1fibdzh4f46vplb/100000061.jpeg?rlkey=l9vxltoj9xjrxepmun39l2dt2&st=7050awxn&dl=1"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 3200,
+  "species": "Dragon",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
+  "def": 2800,
+  "level": 10,
+  "is_tuner": false
+}

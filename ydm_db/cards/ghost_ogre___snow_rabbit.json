@@ -12,10 +12,10 @@
   "attribute": "LIGHT",
   "atk": 0,
   "species": "Psychic",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1800,
   "level": 3,
   "is_tuner": true

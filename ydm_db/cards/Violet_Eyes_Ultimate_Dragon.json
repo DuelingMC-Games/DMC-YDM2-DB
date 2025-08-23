@@ -1,0 +1,21 @@
+{
+  "id": 100000062,
+  "name": "Violet-Eyes Ultimate Dragon",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "\"Violet-Eyes Grey Dragon\" + \"Violet-Eyes Grey Dragon\" + \"Violet-Eyes Grey Dragon\"\nAt the end of the Damage Step: You can send 1 \"Blue-Eyes\" or \"Red-Eyes\" Fusion Monster from your Extra Deck to the GY; this card can attack again in a row. You can use this effect of \"Violet-Eyes Ultimate Dragon\" twice per turn. When a card or effect is activated that targets a \"Blue-Eyes\", \"Red-Eyes\", or \"Violet-Eyes\" monster(s) you control (Quick Effect): You can banish this card from your GY; negate the activation, and if you do, destroy that card.",
+  "images": [
+    "https://www.dropbox.com/scl/fi/a6h589akyoxbirf8hc5xy/100000062.jpeg?rlkey=0uje4roqgndfzy160qgo1tfa7&st=2ppqqatf&dl=1"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 5000,
+  "species": "Dragon",
+  "ability": "",
+  "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Fusion",
+  "def": 3000,
+  "level": 12,
+  "is_tuner": false
+}
