@@ -3,7 +3,7 @@
     "code": "POPA",
     "type": "60 Card Set",
     "date": "2-16-2025",
-    "image": "",
+    "image": "https://images.ygoprodeck.com/images/cards/back_high.jpg",
     "pull_type": "distribution",
     "distribution": "60_card_set_with_collector_s_rare",
     "cards": [
@@ -344,13 +344,13 @@
             "image_index": 0
         },
         {
-            "id": 100000056,
+            "id": 19093698,
             "code": "POPA-050",
             "rarity": "Super Rare",
             "image_index": 0
         },
         {
-            "id": 100000057,
+            "id": 39848658,
             "code": "POPA-051",
             "rarity": "Rare",
             "image_index": 0
