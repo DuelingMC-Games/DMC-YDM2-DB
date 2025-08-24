@@ -1,0 +1,12 @@
+{
+  "id": 100000057,
+  "name": "Rank-Up-Magic Omniforce",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "(This card is always treated as an \"Omni\" Spell Card.)\nTarget 1 \"Omni\" Xyz Monster you control; Special Summon from your Extra Deck, 1 \"Omni\" Xyz Monster that is 1 Rank higher, by using it and this card as the Xyz Materials. (This is treated as an Xyz Summon. Transfer its materials to the Summoned monster.)\nYou can only activate 1 \"Rank-Up-Magic Omniforce\" once per turn.",
+  "images": [
+    "https://www.dropbox.com/scl/fi/z3jbpb4f6r9jisrn6nesj/100000057.png?rlkey=u34dpl5kzhpp0jrsopfeijykw&st=o8gr8ebk&dl=1"
+  ],
+  "type": "Spell",
+  "spell_type": "Quick-Play"
+}
